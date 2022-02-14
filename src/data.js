@@ -73,7 +73,7 @@ function chillHop() {
       active: false,
     },
     {
-      name: "Hey MotherFucker",
+      name: "I am Here",
       cover:
         "https://chillhop.com/wp-content/uploads/2020/06/d9d8ae69141cb7838e3c53bbf393c6218285e384-1024x1024.jpg",
       artist: "Kaizoku, Florent Garcia",
